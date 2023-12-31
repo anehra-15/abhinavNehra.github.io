@@ -6,8 +6,8 @@
 #### **Technical Skills:** AWS | Apache Spark | Scala | HBase | Autosys | Git | Cyberark | Sqoop | Hive | HDFS | Confluence | Big Data | Python | Linux | MySQL | Shell Scripting | Bitbucket | Oracle SQL Developer | IBM Connect Direct(NDM)
 
 ## Education					       		
-- M.S., Engineering Science - Data Science	| University at Buffalo, The State University of New York (Aug 2023 - Present)	        		
-- B.Tech., Software Engineering | SRM Institute of Science and Technology(Chennai, India) (May 2015 - May 2019)
+- M.S, Engineering Science - Data Science	| University at Buffalo (Aug 2023 - Present)	        		
+- B.Tech, Software Engineering | SRM Institute of Science and Technology, India (May 2015 - May 2019)
 
 ## Work Experience
 **Technology Analyst(Former Senior Systems Engineer) @ Infosys Pvt Ltd (_Jan 2020 - Jul 2023_)**
