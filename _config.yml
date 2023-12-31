@@ -2,4 +2,5 @@ title: Abhinav Nehra
 logo: /img/p1.jpg
 theme: jekyll-theme-minimal
 description: Hi, I'm Abhinav. I'm a Data enthusiast and I love exploring the world of data and technology.
+layout: custom_layout
 
