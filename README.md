@@ -27,12 +27,19 @@
 ## Projects
 ### [Advanced Predictive Modelling in Healthcare Data Analytics for Early Disease Detection and Proactive Medical Intervention](https://github.com/anehra-15/-Predictive-Modelling-for-Early-Disease-Detection-)
 
-![alt text](img/p2.jpg "Logo Title Text 1")
+![alt text](img/p2.jpg)
 
 ### [Loan Approval Predictor](https://github.com/anehra-15/Bank-Loan-Approval-Predictor)
 
-![alt text](img/p3.jpg "Logo Title Text 1")
+![alt text](img/p3.jpg)
 
+### [Music Streaming Application Data ETL Pipeline using Python and AWS]
+
+![alt text](img/p5.png)
+
+### [E-commerce Data Extraction with Python]
+
+![alt text](img/p4.png)
 
 
 
