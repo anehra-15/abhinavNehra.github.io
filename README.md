@@ -29,8 +29,9 @@
 
 ![alt text](img/p2.jpg "Logo Title Text 1")
 
+### [Loan Approval Predictor](https://github.com/anehra-15/Bank-Loan-Approval-Predictor)
 
-### Project2
+![alt text](img/p3.jpg "Logo Title Text 1")
 
 
 
