@@ -26,7 +26,7 @@
 
 ## Projects
 ### [Advanced Predictive Modelling in Healthcare Data Analytics for Early Disease Detection and Proactive Medical Intervention](https://github.com/anehra-15/-Predictive-Modelling-for-Early-Disease-Detection-)
-[![Project Image]](https://github.com/anehra-15/abhinavNehra.github.io/tree/main/img/p2.img)
+![Project Image](https://github.com/anehra-15/abhinavNehra.github.io/tree/main/img/p2.jpg)
 
 
 ### Project2
