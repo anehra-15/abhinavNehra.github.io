@@ -33,11 +33,11 @@
 
 ![alt text](img/p3.jpg)
 
-### [Music Streaming Application Data ETL Pipeline using Python and AWS]
+### [Music Streaming Application Data ETL Pipeline using Python and AWS](https://github.com/anehra-15/Music_Data_ETL_Pipeline)
 
 ![alt text](img/p5.png)
 
-### [E-commerce Data Extraction with Python]
+### [E-commerce Data Extraction with Python](https://github.com/anehra-15/E_commerce_Data_Extraction_with_Python)
 
 ![alt text](img/p4.png)
 
