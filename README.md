@@ -39,7 +39,7 @@
 
 ### [E-commerce Data Extraction with Python](https://github.com/anehra-15/E_commerce_Data_Extraction_with_Python)
 
-![alt text](img/data_extract.jpg)
+![alt text](img/d_e.PNG)
 
 
 
