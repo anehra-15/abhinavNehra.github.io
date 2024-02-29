@@ -3,7 +3,7 @@
 
 #### **About Me :** I'm a Data Science Grad Student at Univeristy at Buffalo with 3.5+ years of industry experience in Cloud Infrastructure and Data Engineering domain and I'm passionate about the Data Science and Engineering field and their application in generating valuable insights from messy and large datasets. Imagine a puzzle — I love piecing together information from chaotic datasets to reveal the big picture and unlock valuable secrets within!
 
-#### **Technical Skills:** AWS | Apache Spark | Scala | HBase | Autosys | Git | Cyberark | Sqoop | Hive | HDFS | Confluence | Big Data | Python | Linux | MySQL | Shell Scripting | Bitbucket | Oracle SQL Developer | IBM Connect Direct(NDM)
+#### **Technical Skills:** AWS | Apache Spark | Scala | Autosys | Git | Cyberark | Sqoop | Hive | HDFS | Confluence | Big Data | Python | Linux | MySQL | Shell Scripting | Bitbucket | IBM Connect Direct(NDM)
 
 ## Education					       		
 - M.S, Engineering Science - Data Science	| University at Buffalo (Aug 2023 - Present)	        		
