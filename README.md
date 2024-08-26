@@ -10,6 +10,8 @@
 - B.Tech, Software Engineering | SRM Institute of Science and Technology, India (May 2015 - May 2019)
 
 ## Work Experience
+**Cloud Data Pipeline Intern @ Calix (San Jose, CA, Remote)(_May 2024 - Present_)
+- Skills: Spark, Scala, PySpark, Data Quality, Amazon Deeque, SDK, Apache Iceberg, DynamoDB, S3, PrestoDB
 **Technology Analyst(Former Senior Systems Engineer) @ Infosys Pvt Ltd (_Jan 2020 - Jul 2023_)**
 - Lead real-time data validation efforts using Apache Spark and advanced SQL techniques, ensuring strict adherence to SLAs for seamless data processing.
 - Automated data import processes through Shell scripting, Airflow, and Sqoop, resulting in a significant reduction in manual efforts and enhanced operational efficiency.
