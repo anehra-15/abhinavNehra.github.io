@@ -6,8 +6,8 @@
 #### **Technical Skills:** Kafka, Airflow, AWS S3, Apache Spark, Scala, Autosys, CyberArk, Sqoop, Hive, HDFS, Confluence, WebLogic, Big Data, Python, Linux, MySQL, Shell Scripting, IBM Connect Direct (NDM), ServiceNow, R Programming, Data Mining, SQL, Apache Iceberg, Presto, Deeque, Docker, ArgoCD, AWS, Intellij, Git, Bitbucket, JIRA, Maven
 
 ## Education					       		
-- M.S, Engineering Science - Data Science	| University at Buffalo (Aug 2023 - Dec 2024)	        		
-- B.Tech, Software Engineering | SRM Institute of Science and Technology, India (May 2015 - May 2019)
+- M.S, Engineering Science - Data Science, GPA: 3.67/4.0	| University at Buffalo, Buffalo, NY, USA (Aug 2023 - Dec 2024)	        		
+- B.Tech, Software Engineering, CGPA: 8.04/10 | SRM Institute of Science and Technology, India (May 2015 - May 2019)
 
 ## Work Experience
 **Cloud Data Pipeline Intern @ Calix (San Jose, CA, Remote)(_May 2024 - Aug 2024_)**
