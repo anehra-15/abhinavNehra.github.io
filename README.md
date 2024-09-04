@@ -10,7 +10,7 @@
 - B.Tech, Software Engineering | SRM Institute of Science and Technology, India (May 2015 - May 2019)
 
 ## Work Experience
-**Cloud Data Pipeline Intern @ Calix (San Jose, CA, Remote)(_May 2024 - Present_)**
+**Cloud Data Pipeline Intern @ Calix (San Jose, CA, Remote)(_May 2024 - Dec 2024_)**
 - Developed a highly scalable Spark-based SDK, leveraging distributed processing to significantly accelerate data encryption and decryption tasks by Transitioning from a REST API to a Spark-based SDK, reducing encryption time for 500 million records from 2-3 hours to just 25 minutes enabling faster and more secure processing of sensitive data, directly contributing to improved compliance and operational efficiency.
 - Developed and integrated advanced data quality checks using Apache Deequ, including custom metrics like Bad Email Check, Completeness with Threshold, and IsEmpty validation, significantly reducing manual oversight, enhancing data accuracy and ensuring compliance with business rules.
 -  Led a successful PoC to evaluate Apache Iceberg's compatibility with our data lake, focusing on optimizing data management for scalability and performance.
