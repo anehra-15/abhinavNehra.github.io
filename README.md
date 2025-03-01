@@ -1,13 +1,13 @@
 # Data Scientist | Data Engineer
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abhinav51/)      [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/anehra-15/)
 
-#### **About Me :** I'm a Data Science Grad Student at Univeristy at Buffalo with 3.5+ years of industry experience in Cloud Infrastructure and Data Engineering domain. Currently, I'm interning at Calix as a Cloud Data Pipeline Intern, where I'm part of the Datalake team, working and learning about various aspects of cloud-based data processing pipelines. I'm passionate about the Data Science and Engineering field and their applications in generating valuable insights from messy and large datasets. Imagine a puzzle — I love piecing together information from chaotic datasets to reveal the big picture and unlock valuable insights!
+#### **About Me :** With 3.5+ years of industry experience in cloud infrastructure and data engineering, I bring a solid foundation in building and optimizing data pipelines, managing large datasets, and implementing scalable solutions using Big data tech stack and technologies like Python, Spark, AWS, and SQL etc. I'm passionate about the Data Science and Engineering field and their applications in generating valuable insights from messy and large datasets. Imagine a puzzle — I love piecing together information from chaotic datasets to reveal the big picture and unlock valuable insights!
 
 #### **Technical Skills:** Kafka, Airflow, AWS S3, Apache Spark, Scala, Autosys, CyberArk, Sqoop, Hive, HDFS, Confluence, WebLogic, Big Data, Python, Linux, MySQL, Shell Scripting, IBM Connect Direct (NDM), ServiceNow, R Programming, Data Mining, SQL, Apache Iceberg, Presto, Deeque, Docker, ArgoCD, AWS, Intellij, Git, Bitbucket, JIRA, Maven
 
 ## Education					       		
-- M.S, Engineering Science - Data Science, GPA: 3.67/4.0	| University at Buffalo, Buffalo, NY, USA (Aug 2023 - Dec 2024)	        		
-- B.Tech, Software Engineering, CGPA: 8.04/10 | SRM Institute of Science and Technology, India (May 2015 - May 2019)
+- M.S, Engineering Science - Data Science, GPA: 3.67/4.0	| University at Buffalo, Buffalo, NY, USA      		
+- B.Tech, Software Engineering, CGPA: 8.04/10 | SRM Institute of Science and Technology, India 
 
 ## Work Experience
 **Cloud Data Pipeline Intern @ Calix (San Jose, CA, Remote)(_May 2024 - Aug 2024_)**
