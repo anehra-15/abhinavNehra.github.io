@@ -5,12 +5,19 @@
 
 #### **Technical Skills:** Kafka, Airflow, AWS S3, Apache Spark, Scala, Autosys, CyberArk, Sqoop, Hive, HDFS, Confluence, WebLogic, Big Data, Python, Linux, MySQL, Shell Scripting, IBM Connect Direct (NDM), ServiceNow, R Programming, Data Mining, SQL, Apache Iceberg, Presto, Deeque, Docker, ArgoCD, AWS, Intellij, Git, Bitbucket, JIRA, Maven
 
+## Certifications					       		
+- AWS Certified Cloud Practitioner
+- Spark Framework- Infosys, Oracle Cloud Infrastructure foundations 2021 Certified Associate- Oracle
+- Big Data 101- Infosys
+- Infosys Certified Python Associate- Infosys
+- Apache Kafka Tutorials- Infosys Springboard
+  
 ## Education					       		
 - M.S, Engineering Science - Data Science, GPA: 3.67/4.0	| University at Buffalo, Buffalo, NY, USA      		
 - B.Tech, Software Engineering, CGPA: 8.04/10 | SRM Institute of Science and Technology, India 
 
 ## Work Experience
-**Cloud Data Pipeline Intern @ Calix (San Jose, CA)(_May 2024 - Aug 2024_)**
+**Cloud Data Pipeline Intern @ Calix (San Jose, CA)(_May 2024 - Nov 2024_)**
 - Developed a highly scalable Spark-based SDK, leveraging distributed processing to significantly accelerate data encryption and decryption tasks by Transitioning from a REST API to a Spark-based SDK, reducing encryption time for 500 million records from 2-3 hours to just 25 minutes enabling faster and more secure processing of sensitive data, directly contributing to improved compliance and operational efficiency.
 - Developed and integrated advanced data quality checks using Apache Deequ, including custom metrics like Bad Email Check, Completeness with Threshold, and IsEmpty validation, significantly reducing manual oversight, enhancing data accuracy and ensuring compliance with business rules.
 -  Led a successful PoC to evaluate Apache Iceberg's compatibility with our data lake, focusing on optimizing data management for scalability and performance.
