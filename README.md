@@ -25,7 +25,7 @@
 -  Integrated Apache Iceberg into the data lake to support incremental data loads alongside existing full loads, ensuring seamless handling of complex data operations like inserts, updates, and deletes.
 - **Skills**: Spark, Scala, PySpark, Data Quality, Amazon Deeque, SDK, Apache Iceberg, DynamoDB, S3, Presto, Data Governance
   
-**Technology Analyst(Former Senior Systems Engineer) @ Infosys Pvt Ltd (_Jan 2020 - Jul 2023_)**
+**Technology Analyst - Data Engineer (Former Senior Systems Engineer) @ Infosys Pvt Ltd (_Jan 2020 - Jul 2023_)**
 - Lead real-time data validation efforts using Apache Spark and advanced SQL techniques, ensuring strict adherence to SLAs for seamless data processing.
 - Automated data import processes through Shell scripting, Airflow, and Sqoop, resulting in a significant reduction in manual efforts and enhanced operational efficiency.
 - Architected seamless integration among Hive, Hbase, and Spark for agile data analysis and swift retrieval, optimizing complex operations.
