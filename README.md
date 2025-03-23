@@ -19,8 +19,8 @@
 
 ## Work Experience
 **Cloud Data Pipeline Intern @ Calix (San Jose, CA)(_May 2024 - Nov 2024_)**
-- Developed a highly scalable Spark-based SDK, leveraging distributed processing to significantly accelerate data encryption and decryption tasks by Transitioning from a REST API to a Spark-based SDK, reducing encryption time for 500 million records from 2-3 hours to just 25 minutes enabling faster and more secure processing of sensitive data, directly contributing to improved compliance and operational efficiency.
-- Developed and integrated advanced data quality checks using Apache Deequ, including custom metrics like Bad Email Check, Completeness with Threshold, and IsEmpty validation, significantly reducing manual oversight, enhancing data accuracy and ensuring compliance with business rules.
+- Developed a highly scalable Spark-based SDK, leveraging distributed processing to significantly accelerate data encryption and decryption tasks by Transitioning from a REST API to a Spark-based SDK, directly contributing to improved compliance and operational efficiency.
+- Developed and integrated advanced data quality checks, including custom metrics like Bad Email Check, Completeness with Threshold, and IsEmpty validation, significantly reducing manual oversight, enhancing data accuracy and ensuring compliance with business rules.
 -  Led a successful PoC to evaluate Apache Iceberg's compatibility with our data lake, focusing on optimizing data management for scalability and performance.
 -  Integrated Apache Iceberg into the data lake to support incremental data loads alongside existing full loads, ensuring seamless handling of complex data operations like inserts, updates, and deletes.
 - **Skills**: Spark, Scala, PySpark, Data Quality, Amazon Deeque, SDK, Apache Iceberg, DynamoDB, S3, Presto, Data Governance
