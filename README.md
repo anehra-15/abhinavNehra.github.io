@@ -7,7 +7,8 @@
 
 ## Certifications					       		
 - AWS Certified Cloud Practitioner
-- Spark Framework- Infosys, Oracle Cloud Infrastructure foundations 2021 Certified Associate- Oracle
+- Spark Framework- Infosys
+- Oracle Cloud Infrastructure foundations 2021 Certified Associate- Oracle
 - Big Data 101- Infosys
 - Infosys Certified Python Associate- Infosys
 - Apache Kafka Tutorials- Infosys Springboard
