@@ -48,7 +48,7 @@
 ## Projects
 ### [DocuChat AI – Interactive Q&A Assistant](https://github.com/anehra-15/Docuchat-AI)
 
-![alt text](img/port.jpg)
+![alt text](img/port.png)
 
 ### [Advanced Predictive Modelling in Healthcare Data Analytics for Early Disease Detection and Proactive Medical Intervention](https://github.com/anehra-15/-Predictive-Modelling-for-Early-Disease-Detection-)
 
