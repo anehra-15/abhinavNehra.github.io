@@ -5,7 +5,8 @@
 
 #### **Technical Skills:** Kafka, Airflow, AWS S3, Apache Spark, Scala, Autosys, CyberArk, Sqoop, Hive, HDFS, Confluence, WebLogic, Big Data, Python, Linux, MySQL, Shell Scripting, IBM Connect Direct (NDM), ServiceNow, R Programming, Data Mining, SQL, Apache Iceberg, Presto, Deeque, Docker, ArgoCD, AWS, Intellij, Git, Bitbucket, JIRA, Maven, PySpark
 
-## Certifications					       		
+## Certifications
+- Generative AI Fundamentals - Databricks
 - AWS Certified Cloud Practitioner
 - Spark Framework- Infosys
 - Oracle Cloud Infrastructure foundations 2021 Certified Associate- Oracle
