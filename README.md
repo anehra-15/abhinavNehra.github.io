@@ -19,7 +19,7 @@
 - B.Tech, Software Engineering, CGPA: 8.04/10 | SRM Institute of Science and Technology, India 
 
 ## Work Experience
-** AI Data Engineer @ Saayam For All (Buffalo, NY)(_Feb 2025 - Present_)**
+**AI Data Engineer @ Saayam For All (Buffalo, NY)(_Feb 2025 - Present_)**
 - **Skills**: Python (Programming Language) · Application Programming Interfaces (API) · Data Extraction · Extract, Transform, Load (ETL) · Requests · Beautiful Soup · JSON
 
 **Associate Cloud Data Engineer @ Calix (San Jose, CA)(_Oct 2024 - Nov 2024_)**
