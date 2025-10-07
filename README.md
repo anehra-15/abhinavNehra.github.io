@@ -19,17 +19,13 @@
 - B.Tech, Software Engineering, CGPA: 8.04/10 | SRM Institute of Science and Technology, India 
 
 ## Work Experience
-**Data Engineer @ Saayam For All (Buffalo, NY)(_Feb 2025 - Present_)**
+** AI Data Engineer @ Saayam For All (Buffalo, NY)(_Feb 2025 - Present_)**
 - **Skills**: Python (Programming Language) · Application Programming Interfaces (API) · Data Extraction · Extract, Transform, Load (ETL) · Requests · Beautiful Soup · JSON
 
-**Associate Cloud Pipeline Engineer @ Calix (San Jose, CA)(_Oct 2024 - Nov 2024_)**
-- Developed and integrated advanced data quality checks, including custom metrics like Bad Email Check, Completeness with Threshold, and IsEmpty validation, significantly reducing manual oversight, enhancing data accuracy and ensuring compliance with business rules.
+**Associate Cloud Data Engineer @ Calix (San Jose, CA)(_Oct 2024 - Nov 2024_)**
 - **Skills**: Spark, Scala, PySpark, Data Quality, Amazon Deeque, Azkaban, Apache Iceberg, DynamoDB, S3, Data Governance, CDC
 
-**Cloud Data Pipeline Intern @ Calix (San Jose, CA)(_May 2024 - Aug 2024_)**
-- Developed a highly scalable Spark-based SDK, leveraging distributed processing to significantly accelerate data encryption and decryption tasks by Transitioning from a REST API to a Spark-based SDK, directly contributing to improved compliance and operational efficiency.
--  Led a successful PoC to evaluate Apache Iceberg's compatibility with our data lake, focusing on optimizing data management for scalability and performance.
--  Integrated Apache Iceberg into the data lake to support incremental data loads alongside existing full loads, ensuring seamless handling of complex data operations like inserts, updates, and deletes.
+**Cloud Data Engineer Intern @ Calix (San Jose, CA)(_May 2024 - Aug 2024_)**
 - **Skills**: Spark, Scala, PySpark, SDK, Apache Iceberg, DynamoDB, S3, Presto
   
 **Technology Analyst - Data Engineer (Former Senior Systems Engineer) @ Infosys Pvt Ltd (_Jan 2020 - Jul 2023_)**
